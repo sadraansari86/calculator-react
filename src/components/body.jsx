@@ -6,23 +6,31 @@ export default function Body() {
                     <input type="text" />
                 </div>
                 <div className="buttons">
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
-                    <button type="button"></button>
+                    <div>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                    </div>
+                    <div>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                    </div>
+                    <div>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                    </div>
+                    <div>
+                        <button type="button"></button>
+                        <button type="button"></button>
+                    </div>
                 </div>
             </form>
         </div>
